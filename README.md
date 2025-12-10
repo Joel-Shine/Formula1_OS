@@ -1,5 +1,9 @@
 <h1 align="center"> 🏎️ Formula1_OS (f1) </h1>
-> "It's lights out and away we go!"
+<h2 align = "center"> "It's lights out and away we go!" </h2>
+
+<div align="center">
+  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/demo.png" alt="demo.png">
+</div>
 
 **Formula1_OS** is a feature-rich, immersive Terminal User Interface (TUI) that transforms your command line into a Formula 1 Pit Wall. Built with Python and `rich`, it replaces mundane system tasks with high-octane racing metaphors.
 
