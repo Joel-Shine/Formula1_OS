@@ -35,3 +35,17 @@
 * **Formula 1 News (`news`):** The latest news in Formula 1
 * **Internet speedtest (`drs`):** Gives your internet speedtest, but with a Formula 1 twist
 * **Meme radio messages (`quote`):** Some of the iconic radio messages in Formula 1 history.
+
+## 📷 Screenshots
+<div align="center">
+  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/f1_demo.png" alt="f1_demo.png">
+</div>
+
+## 🤝 Contributing
+"We win and lose together."
+Pull requests are welcome. For major changes (regulation updates), please open an issue first to discuss what you would like to change.
+
+## 📜 License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Disclaimer: !!! This project is a fan creation and is not affiliated with Formula 1 or the FIA !!!
