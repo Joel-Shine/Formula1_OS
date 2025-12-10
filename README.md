@@ -7,7 +7,7 @@
 <br>
 
 <h3>
-**Formula1_OS** is a feature-rich, immersive Terminal User Interface (TUI) that transforms your command line into a Formula 1 Pit Wall. Built with Python and `rich`, it replaces mundane system tasks with high-octane racing metaphors.
+  <b>Formula1_OS</b> is a feature-rich, immersive Terminal User Interface (TUI) that transforms your command line into a Formula 1 Pit Wall. Built with Python and `rich`, it replaces mundane system tasks with high-octane racing metaphors.
 </h3>
 
 </div>
