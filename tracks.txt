@@ -1,0 +1,506 @@
+yas_marina/abu_dhabi = """                                                                                                  
+                                        ~^                                                          
+                                       :PPYJ!^:                                                     
+                                 ^~!77?JB!:~7JYJ7~:                                                 
+                            ^77JYY?              JYYJ!^:                                            
+                          :?5Y7^:   ~7JYYY?77P5^:  :~7JYY?!^:                                       
+                        ^JP?^     :P57^: :  :5P         ^!?JYJ7~:                                   
+                      ~Y57:       ~#^^:     :YY             :^7JYY?!^                               
+           :        75Y~          ^#^   :   :55~:                ^!?YYJ!^:              :           
+                 :7PJ~~77????~    ^#^   :   :PP~:            :       :~?YYJ7~:                      
+               :?PJ^?PY?!~77PP    ^#~       :PP^:                        :~7JYY?~^                  
+              7PJ:!PJ:::    5P    !#^       :PP                               ^!?YYJ!^              
+            ^5P^ YG!:     :~7YYJJJPJ^       :PP               :~!!!~:             :~?YYJ7~:         
+           ?G7  ~#^^^      :  ::^^::^       :PP       :     ~5YJY77JYYJ7~^::::::::    :~7JG!:       
+         ^P5^   5P                          :PP      :^:^^^YG!  :    :~7YJJJJJJJJJJJJJJJJJ5~^       
+        !G?    ^#!                          :P5          ^5G:           :          :::::::          
+        #?     YP                           :YG~!!7??JJJY55^                                        
+        7P?!~!JG^                           :^JJ??77!~~~^:^:                                        
+         !77??!:                                                                                    
+"""
+
+
+
+monza = """
+ &#BBBBYGGGGGGGGG#                                                                                  
+#GGGBBBPB####&&#GGB                                                                                 
+PGG             #GGG                                                                                
+GGG&             &PYP&                                                                              
+&GGG              &GGG#                                                                             
+ #P5G               BGG#                                                                            
+  GPG&               BGGB                                                                           
+   GGG                #GGB&                                                                         
+   #GGB                &GGG#                                                                        
+    BGGG#                #GGG#                                                                      
+     &GGG                  #GGG#                                                                    
+      GGG                    BGGB&                                                                  
+      GGG                     &BGGB&                                                                
+      BGG&                      &BGGB&                                                              
+      BGG&                        #GGG#                                                             
+      #55B                          #GGGB                                                           
+      &PPB                            #Y5G#                                                         
+       GGG                             &#GGB&                                                       
+       GGG                               &BGGBBGBB#&                                                
+       #GGB                                &#####BGGB&&&&&                                          
+        GGG#                                      &BGGGGGGGGJBBBBBBB####&&&&&&                      
+         GGG#                                         &&&&&#B##BBBBBBGGGGGGGGGGGGGGBBBBBPB###&&&&   
+          BGGB&                                                          &&&&&&####BBBBBYGGGGGGGGGB 
+           &BGGG#&&               &&                                                         &&&#GGG
+             &#BGGGGBBBBPG###BBBGGGGB&&&                                                         GGP
+                 &###BBB5PBBBBBB##BGGGGG5YGGGGBBBBBBB#####&&&&&&                               &GGG#
+                                   &&&&&#######BBBBBBBGGGGGGGGGGGGGGBBBBBPB#####&&&&&&&&&###BBGGGB& 
+                                                          &&&&&&####BBBBBYGGGGGGGGGGGGGGGGGGGBB#&   
+"""
+
+
+silverstone = """
+                                                                                                    
+                                    &&&       &####&                                                
+                        &&&&&&&&&#BGGGGGB####BGGBGGGB                                               
+             &&##BBBGGGGG55GGGGGGGB#&&&#BBBBGB#&  &GGG&                                             
+          #BGGGGBBB###&&&&&&&&&&     &######&       BGGB#&                                          
+        &GGG#&&                    &BGGGBB55GGB#     &#BGYPB#&                                      
+        #GG&                     &BGGB&  &#BGGGG&        ##BGGGB#&                                  
+        #GG&                   &BGGB&   BGGGB##&             &#BGGGB#&                              
+        &GG#                 &BGGB&     BGGB&                    &#BGGGB#&                          
+         PPB               &BGGB&        &BGPG                       &#BGGGGB&                      
+         PPG              #GGB&            #55G#                         &#PPGGB#&                  
+         BGG            #GGB&                #GGB                            &#GGGB#&               
+         #GG&         BPGB&                   BGG&                              &#BGGB              
+         &GG#       #GPP#                     #GG&                                 &GGB             
+          GGB     #GGG#                       GGG                                  #GGB             
+          BGG&   BGG#                         GGB                              &BBGGG#              
+           BGG#     ###&&                     GGG#                          #BGGGB#&                
+            #GGGB     GGGG&                    #BGGB&                    &#GGG#&                    
+              &BGGG    #GGB                      &#GGGB&               &BY5B#                       
+                 &&G    GB&                         &BGGGB&          #GGGB#                         
+                    &&&&                               &BGGG##       #GGG                           
+                                                          #BY5B#&    &GGG#                          
+                                                            &#BGGBBBYPGB&                           
+                                                               &#BB#B#                              
+                                                                                                    
+                                                                                                    
+"""
+
+spa = """
+                                                                      &&###&                        
+                                                               &&BBBBGGGGGGG#&#GBBB#                
+                                                       &&##BBGGGGYPB##&&  #GGGGYBBGGG&              
+                                               &&&#BBGGGGGGBB##&&                  BPYG             
+                                         &##BBGGGGGBB##&&                        && #PGG#           
+                                      #BGGGGBB#&&                         &&##BBGGGGB&#GGB          
+                                  &BGGGGB&&                    &&&##BBB55GGGGGBB#&&BPYB&GGG&        
+                              &&BGG5P#&                      BGGGGGGBBBBB&&&        BPGB#GGG        
+                         #BBGGGGGB#                         GGG#&                    &BGGBB&        
+                       &GGGB#&&&                           &GGB                                     
+                     &BGGB&                                &GGB                                     
+                   BPGGB&                                   BGGB&                                   
+                &BGG5B&                                      #BGGGB#&&                              
+             &#GGGB&                        &#BBGGGGB#&&       &##BGGY5B##&                         
+           &BGGG#       &#BBB#       &&##BGGGGBB####BGYYBB#&        &##BGGGGB#&                     
+          #GGG#     &#BGGGGGGGBBGGG55GGGGB##&         &#BBGGG#            &#BGG#                    
+        &PGG#   &#BY5GGB#& &B########&&                   &#GGG#            #GG#                    
+       &G55& &BGGGGGG&                                       BGG#          #GGB                     
+      &GGGGBGGGB#&                                            BGGB         #GGB&                    
+     &GGGGGGB#&                                                #GGB         #BGGGB#                 
+      #BB#&                                                     #GGG&          #BYPGB#              
+                                                                 &BG5G&           &#GGB             
+                                                                   #PGGB&          GGGB             
+                                                                     &BGGGB#&    #G55&              
+                                                                        #BGGGGBBGGG#                
+                                                                           &&##B##&                 
+"""
+
+monaco/monte-carlo = """
+                                                                                                    
+                                                                #BBB&                               
+                                                             &BGG##PG&#G##&                         
+                                                           &BP5#  &5PGBPBGG                         
+                                                         #GGB&     GGG  #GB                         
+                                                        GG#&       &B#  PG&                         
+                                                       &GG             BYB                          
+                                                        &GG&          GG#                           
+                                                         #GG        &GG#                            
+                                               &&&&##&&#BGG#      &BGB&                             
+                          &BGBBBBBBBBGPBBBBBBBGGBBBPGBBB#&    &#BGGB&                               
+                         #GG                               BBGGB#&                                  
+                        BGB  &BBBBBG5BBBBB###GGGBBBBBBBBPB##&&                                      
+                       BGB  #PG&&&&&&&&&&######                                                     
+                      #GG   G5#                                                                     
+                      GG&  #GB                                                                      
+                      55   &GG&                                                                     
+                     &GG    G5#                                                                     
+                     &GG    G5#                                                                     
+                     &GG   #GG&                                                                     
+                      GG   GG&                                                                      
+                      BPB  BGB&                                                                     
+                       BGB  &5PB&                                                                   
+                        BP#   &BGGB                                                                 
+                        #GGB    BGG&                                                                
+                          &&&B####&                                                                 
+"""
+
+mexico = """
+   :?5PBGGGGGGGGGBGPP5YJ?7!~^:                                                                      
+  Y#P7^:         :^^~!7?JY55PPPPPPP55YYJ?77!~~^^:                                                   
+^##^                            ::^^~!77?JJY55PPPPPPPPPPP55YYJ??7!!~^^:                             
+B&:        :^                                        ::^^~~!!7?JJYY5PPPPPPPPP5YYJ?7!~~^::           
+P#55YJ?7^~5# 5                                                            :^^~!7??JY5PPPGGPGP5Y?^   
+  ^~!77YPPJ:P&:                                                                            :^~!Y J  
+            ? !                                                                                ~ J  
+            ^ Y                                                                                ? J  
+             &G                                                                                 ?P#P
+             5&5J??7!~^^:                                                                         G 
+              ^!7??JY55PGPGGPP55YJ?7!~^:                                                          ##
+                           ::^~!!7?JY5PPGGPJ~                                                    ? 7
+                                         :~JPGGJ!:                                              ~ 5 
+                                              ~?PGG7                                           ~&G  
+                                                  ? 5                                         ! P   
+                                                   ? J                                       J Y    
+                                                    ?#GYJ?77!~^:                            5 7     
+                                                      ~!7?JJY5PPGGY^                      :B&~      
+                                                                 ^P 7                    ~&B:       
+                                                                   Y J                  7 5         
+                                                                    !GBY~              5 ?          
+                                                                      ^JGB5^         :B&~           
+                                                                         ^ G        !&G:            
+                                                                         ^ Y       J Y              
+                                                                         ? !     :G&7               
+                                                                         5 ^    ~&B^                
+                                                                         B#    ? 5                  
+                                                                        : P   5&7                   
+                                                                        ! ?  ^##7:                  
+                                                                        J ~    ~5 P                 
+                                                                        G :    7G#?                 
+                                                                        ##  !5BP!                   
+                                                                        7BBBG?:                     
+"""
+
+imola = """                                                                                              
+                                                                :~!~^:                ::^^^:        
+                                                               YBP55PPPP5YJJJYY5575PPPPPP5PG5:      
+                                                             :PBJ    :^~!77777!!~:^^::  :!5B5       
+                                                             5BJ                      ~?JGY~        
+                                                            ^BG:                   ^?PG5~           
+                                                            :GB~                 :5G57:             
+                                                             ?5J                 ^GB~               
+                                                             ~BG:                 5B?               
+                                                              5B?                7BP:               
+                                :^7J5PY!~~~~^^^^:^^^^:::::   ?GG~               7BG^                
+                           :~?5P5?Y?!?555555555P7PPPPPPPPPP5PBY:               ~PG~                 
+                        :75GPY7^:                         ^!7~                ~GP^                  
+                      ~5GP?^                                                 ~GB!                   
+                    7PBY~                                                   ^GB!                    
+                 ^JGGJ^                                                    ^GB7                     
+             :~?5GP7:                                                   :~?GG7                      
+         !J5PP?Y7^                                                   ^JPGPY7:                       
+        !#G7^       :~7J55PPPPPPPP55557Y5YJ7~^:                     ~GB7:                           
+         J5?  :~7J5?5PY?!~^::^^^^^^~~~^~!7?Y5PPPP5YJ??????7!YYY555PPP57                             
+          YGPPPPY?!^                           :~!7??JJJJ?7~77!!~~^:                                
+           :^^                                                                                                                                                                                      
+"""
+
+
+
+interlagos = """                                                                                                    
+                                                :^!7??JJYYJJ?7!~^:                                  
+                                        :^!?Y5GB#####BBGGGGGB##&##BGP5Y?7~^:                        
+                                 ^~7J5PB####BP5?!~:       ::: :~!7JY5GBB##&##BGPYJ?!^:              
+                         :^!?YPGB###BG5J7~^:    :~!?J5PGBBBBB5!         :^~!?JY5GBB###GY!:          
+                  :~7J5PB##&#BPY?!^:        ^YG##&##GG5YJ?775&&J            :~!?YP5J7JP#&#5~        
+          :^!?YPG##&#BG5J7!^:              J#&BJ!^:         5#&?       ^?PB##&#BGP##P  :7G&#Y       
+    ^!J5GB####BPY?!~:                     5&#5:           !B&B7      !P#&BY7!^:  7#&B:    J#&G~     
+ ^JG#&#G5J7~^                            7&#G            :##G:     !P&&P!     :JB&#Y:      !B&#7    
+J#&G?^                                   5#&?            :#&B^   !P&&P!     ~5#&G?:         ^G##7   
+B##!                                     J&#5             ^G##GG#&#P!     !P&&P!             ^B##~  
+~G&#Y!                                   :G&#J:             ~?YYJ!:      J&&P~                !##B  
+  7P#&B?                                  :Y#&#5!:                      ~&#P                   Y#&J 
+    :B#&^                                   :7P#&#57:                   ?&&?                   :B##~
+    ?#&P                                       :7P#&#P7:                ?&#J                    ?##P
+   Y&#Y                                           :75#&#P?^             :B&B!                   :###
+  7&#5                                               :!5B&#P?^           ^P&&5~                 ^###
+  P##~                                                   !5B&#P?^          !P#&B57:             P##J
+  B#B:                                                      !YB&#G?^         :75B&#GJ~         ?&#P 
+  G##^                                                         !YB&#G?^          ~?P#&#P?^    ^###^ 
+  7&#5                                                            ~YB&#P?           :!YG&&BY!7B&#7  
+   J#&P^                                                             !5#&B7             ^75B##B5~   
+    !G&#5~                                                             ^G&&Y                ::      
+      7P#&B57~:                                                          G#&!                       
+        ^?5B#&#BGPYJ7~^:                                                 J&&Y                       
+            :~7JYPGB####BGPY?7~^:                                        J&&Y                       
+                    :^~7JYPGB####BG5Y?!~:                                P#&?                       
+                             :^!?J5PB#####BP5J7!^:                      :B##^                       
+                                      :~!?Y5GB####BGPYJ7~^:             7&#P                        
+                                              :^~7?YPGB####BGPY?7~^:   ^G#&7                        
+                                                       :^~7JYPGB#&##BGB#&B?                         
+                                                                :^!7JJJ?~                           
+"""
+
+
+sakhir/bahrain = """                                                                                                   
+                          &&&                                                                       
+                        &GGGGGB&                                                                    
+                        BGG##GGG#                         &#BB#&                                    
+                        GGG   BG55#                     &BGGBBGGB                                   
+                       #GGB    &GGGGB&                 &GGG&  #GGB&                                 
+                       BGG&       #BGGGB#&            &PPG&    &GGG#                                
+                       GGG          &&#BGGB           G55#       BGGB                               
+                      #GGB              GGG          #GGB         #GGG&                             
+                      BGG&              GGG          &GGG          &GGG#                            
+                      GGG               BGGB&         #GGG#&         BGGB                           
+                     #YYB                #BGGB#&       &BGGGP5B#&     #GGB&                         
+                     BGG&                  &BBYYB#&       &&GGBGGGB    &GGG#                        
+                     GGG                  #& &#BGGGB&           #GGG&    BGPG                       
+                    #GGB                   GGGBBGGGGB            #GGB     BY5B&                     
+                    BGG&                     BBBBBBB#&&&&&&&&&&&&#GGG      &GGG&                    
+                    BGG&                     GGGGGGG?PGGGGGGGGGGGGGB&        BGG#                   
+                    &GGG                     &&&&&&&&&&&&&&&&&&&&&&           #GGB                  
+                     #GGB                                                      &GGG&                
+                    #BGG#                                                        GGG#               
+                   GGGGB################################GG#####################BBGGG#               
+                   #BBBBGGGGGGGGGGGBBBBBBBBBBBBBBBBBBBBB55BBBBBBBBBBBBBBBBBBBBBBB#&                                                                                                                                       
+"""
+
+baku = """                                                                                                                                 
+                   :^^^^^^^^^^:::                                                                                                 
+               :?PP5555555555555PPPP5Y?:                                       !PPP55555YYJJ??77!!~~^^^::                         
+             ^YB5~                 :^~&5                                      :&5 :::^^^~~!!77??JJYY5555PPPP555YJ??7!~~^^:        
+           ~5BY:                     :&P^                                     7 ~                          ::^~~!7?JJY555PPP7     
+         ^PB?:                        ^?BP^                                   P#                                           7 !    
+        ~&5                              G&:                                  &5                                           ^ 7    
+       ~ Y                               BG                 :7??JJJJJJJJJ???7Y ~                                           7 ~    
+      ~&Y                               ~ 7                :&G777!!!!!!!!777??~                                            ? ^    
+     ~&5                                5&      :^^~!7?JYY5PG^                                                             Y&:    
+    ^&5                                 GB?Y5PPGGBBBBBBBGGGP55P555YJJ??77!~~^^::                                           PB     
+    7 7                                 ~P#BBGPP55YJ?7!~~^^::::^^~~!!7??JJYY555PPPP5555YYYJ??77!~~^^::                     #P     
+     ?&Y                               Y#Y!^::                                     ::^^~~!!77?JJYY555PPPP555YYJJ?77!!~^^^:? !     
+      ^BB^                           7#P^                                                               ::^^~~!77?JJYY555PP7      
+        5&7                   :^~7?YGG!                                                                                           
+         7&5           :!?J55PP5YJ7~:                                                                                             
+          ^GB~      ~JPPY?!~^                                                                                                     
+            J#Y^^!YGP?^                                                                                                           
+             ^Y55Y7:                                                                                                                                                                                                                                             
+"""
+
+
+
+buddh = """                                                                                                    
+                        .^~!!~^                                                                     
+                      ~5Y?7!!7JP~                                                                   
+                     !B~       YG                                                                   
+                     !#~       :B7                                                                  
+                      !YYJ!:    !B7                                                                 
+                        .~?YY?~. :PY.                                                               
+                            :~?YY7~JG~                                                              
+                                :!GJ~PY^.:^~!!:                                                     
+                                  JB. !JJJ?7!7YY?~.                                                 
+                                  :?5Y!:       :!J5J!:                                              
+                                     ^7Y5?~!!:    .^7YY7.                                           
+                                        .~7!?B~       .YG.                                          
+                                             ?B.     ^?5J                                           
+                                             ^#~ .~J5Y!.                                            
+                                          .!J5J!J5J~.                                               
+                                       :7Y5YYYY?^.                                                  
+                                    ^7YY7?5J7:                                                      
+                                 ^?5Y7:  ?G7~~~^^::..                                               
+                             .~J5Y!.      :!!77??JJJJJJJJJ??77!!~^^::..                             
+                          .~J5J!.                     ..::^^~~!77??JJJJJJJJJ?7:                     
+                        ^JY?~                                          ...::~#7                     
+                        YB7~~^:..                                           JG.                     
+                         ^~!7?JJJJJJ?7!~^::.                                5P                      
+                                 .::^~!7?JJJJJJ?7!~^^:.                     ^B?                     
+                                            ..:^~!7??JJYJJ?7!~^:..           :5P!.                  
+                                                       ..:^~!7?JJYJJ??7!~^:.   ^?YJ~.               
+                                                                  .:^^~7??JJJJJ?77J5P5^             
+                                                                            ..:^~!7?JY:             
+"""
+
+
+
+barcelona = """                                                                                                   
+                 &##BB##&&                                                                          
+               &BGGGBBGPPGGBB##&&                                                                   
+              &PGG&       #BBGGGGGGBB#&&                                                            
+              GPP              &&##BGGGGGGBB##&&                                                    
+             BGGG&   &GGGG#           &&##BBGGGGGBB##&&                                             
+              #GGP&  BGPGGGG#                &&&#BBGGGGGGBB#&&&                                     
+              BPGB   #PP# #GGG#                      &&##BBGGGGGBB##&&                              
+             #GPB    &GGG&  #GGG#                           &&##BBGGGGPGBB#&&                       
+             GGGB&    #BGGG&  #GGG#                                      GGGGGBB                    
+              #BGGGB&   &GGG    #GGGB                    &GGG##BGGGG       &&BGGB                   
+                &#GPGGB#BGGB      #PPG#                 #GGG&      &#BGG     BPP#                   
+                   &#BGGBB#         #GGG#            &#GGGB&          &BGP   GGG#                   
+                                      #GGG#&      &#BPPB#&              &GG    GGGB#                
+                                        #GGGB&&&#BGGGB&    &#BGGGGBB##&&  &BG   #BPPG#              
+                                          #BGGGGGGB&      BGGB       PPGGBBBGGG   &BGG#             
+                                             &&&&        BGG#        &&&#BBBBB&     GGG             
+                                                         #GGGB#&&                  #GGG             
+                                                          &#BGGGGGGGG##&&       &#BGGB              
+                                                               &&##BGGGGGGGBBBGGGGGB&               
+                                                                      &&&##BBB##&&                                                                                                               
+"""
+
+
+montreal = """   
+                                          ::::::::                                                  
+                                     !JPGBBBBBBBBBBGPPYJ?!~:                                        
+                                    J&&GJ????777???JY5PGB###BPY?!^                                  
+                          :^!77!!~^^P&#^                :^~7J5G#&#G~                                
+                        !5B&########&&P:                       :!&@P~^:                             
+                     ^7P&&5!^:::^^~~!~:                          !5B&#BPY?!^:                       
+              ~J5Y??P#&BY~                                         :^!J5GB###BG5YJJ??JY5PGGPY^      
+           :!P&&GG##GJ~                                                  :^~7?Y5PGGGGGPP5YJ#@B:     
+         ^?B&#Y~  ::                                                             :^~7YPGGGB&#?      
+        J#@G?:                                                           :^~!?YPG####B5J???!:       
+       5@&?                          ::^^:                 ::^^~~!77?JY5GB###BG5J7!~:               
+      J&&7:7J?7!~^:::::^^~!!7?JY55PGBB####Y^^^~~!7?JJY5PPGBB#######BBGP5Y?!~::                      
+      B@B?#@#B##############BBGGP5YJ?77~7B&#######BBGPP5YJ?77!~~^^::                                
+      ~5GBG?: :^~!!777!!~^^:::           :!!!~^^:::                                                                             
+"""
+
+
+
+
+miami = """                                                                                                   
+                                    .:~7?JYY555YJ?7!^:                                              
+                              .^7JPB&&&&#BGGPPPPGB##&#BPJ!:.                                        
+                        .^7YP#&@&#PY7~:.    :~7JY5PPPGGB#&&#BGPGGGGGBBBBBBBBBBBGP5J7~::::^^:        
+                   .~?5B&@&BPJ7^.        ~5#@&#BGPPGB#&&BPYJJYYYYYYYJJJJJJ????JY5GB&&&&&&&&&G~      
+               ^7YB&@&B57~.             J@@P!:.      .^7P#@#P?^            .^!!~:  .^~~~~:^#@#      
+           :75#@@B5?^.                  #@B              .~JG&@#57:     ^?G&@&#&@B7      :J@@Y      
+          ~@@@P!:                      ^#@G                  :!YB@@B55P#@&GJ^..:J&@#Y??YB@@B7       
+          .5#@#5~                   .7G&@B~                      ^7YPP5J!:       .75B##G5?^         
+             ^P@@!                  J@@G~                                                           
+        ~J555YB@#^                  ^P#&#GJ!:                                                       
+      :P@&GPPP5?:                     .~?P#@@#PJ~:                                                  
+      G@@J                                 :!YG#@&B5?~:                                             
+      !&@G                                     .^7YG&@&B5?^.        .~JPB##BGY~.                    
+      J@@?.:.......                                  ^7YG&&#G5YJJY5G#@&GJ??JP&@#Y^                  
+      Y&@&&&&&&######BBBBGGGGPPPP555YYYJJJ???7777!!!~~^^^~?YGB###BGPJ!:      .!G@&P~                
+       :^~~~!!!!777???JJJJYYY555PPPGGGGBBBB######&&&&&&&&&&##&&&&########BBBBGGG@@@B                
+                                              ......:::::^^^^~~~~!!!777????JJJYYYY?:                
+"""
+
+
+lusail/qatar = """
+                               :?PGBG57:                                                            
+                              !#@P?7JB@G^                              :~7????????7!^               
+                              G@P    :G@P                            ~5##BGGGGGGGGB#&P^             
+          :^!?YPGG57:        ^#@?     ?@&~                          ?&&Y^:         ^5@#!            
+        !5B##BPY?JG@#7       7@&~      5@B^                        7&&7              J&&7           
+       Y@#?~:      ?@&!      5@G       :5@#7                      !&@?                7&@J          
+      :B@Y          Y@#^    :B@Y         7B@BJ^                  ^#@Y                  ~B@P:        
+       ?@#~         :G@P    !&&!          :!P&&Y:               :G@P:                   :B@Y        
+        P@B:         ~&@?   Y@B:             ^P@B:             :P@G:                    ?&@?        
+        ^B@Y          J@#^  G@5               ?@#^             5@B^                   !G@G!         
+         !&&7         :G@G:~&@7              ~#@J            :5@B~                  ~P@#?:          
+          Y@#^         ^P&##&P:              P@G            7B@P^                 ^5&&J:            
+          :G@P           ^77~               7&&~         :7G@B?                 :J&&5^              
+           ~#@J                            :B@5       :!Y#&G7:                :?#@P~                
+            ?@&!                           ^#@Y^^^!?YG#&BY~                  !B@G!                  
+             5@B:                           !G#####BPY7^                    ^#@Y                    
+             :G@P^                            ^^~^:                         :B@5:                   
+              ^5&&PJ~:                                                       ^P@B~                  
+                ^75B&#PJ~:                                                     J&&?                 
+                    ^?5B&#P?:                                                   !B@P:               
+                       :^7G@G^                                                   ^P@B!              
+                          ~&@7                                                     ?&&J             
+                       :~JB@P:                                                      ~B@P^           
+                   :~?P#&B5!                                                         :5@#7          
+               :~JP#&B5?~:                                                             7#@5^        
+              JB&B5?~:                                                                  ^5@#7       
+             J@#!                                                                         7#@Y      
+             J@#~                                                                          P@G      
+             :Y#&GYYYYYYJJJJJJJJJJJJJJ????????????????????JJJJJJJJJJJJJJJYYYYYYYYYYYYYYYY5B&G~      
+               ^7Y5PPPPPPPPPPPPPPPPPGGGGGGGGGGGGGGGGGGGGGGGGPPPPPPPPPPPPPPPPPPP55555555555J!:                                                                                                        
+"""
+
+
+las_vegas = """
+                                                          ?J!^                                      
+                                                          ?@5J5J7:                                  
+                                                           7G?^~7Y5J!:                              
+                                                            :?Y5J^.~?55J~                           
+                                                               .7#~   .!5P^                         
+                                                                :&7      J#^                        
+                                                              :7GJ        ?#^                       
+                                                          :~?55J:          ?#~                      
+                                                      :!J55J!:              7#~                     
+                                                  :!J55J~:                   7#~                    
+                 :!JYYYYY?^                   :!J55?~:                        !#!                   
+               .YP?~:. .:7PP:             :!J5Y?~.                             !#!                  
+              .G5.         YB:        ^7J5Y?~.                                  ~#7                 
+              !&:           JB^  .^7Y5Y?~.                                       ~#7                
+              :#J            7BJY5Y7^.                                            ~#?               
+               ^#?            :~^.                                                 ^#?              
+                ^#J                                                                 ^BJ             
+                 ^#J                                                                 5G             
+                  :BY                                                              .~BG.            
+                   ^&~                                                         :~?Y5J!:             
+                   ^&~                                                     :!J55J!:                 
+                  ^BY                                                 .^7Y5Y?~.                     
+                :YG!                                              .~?Y5Y7^.                         
+               ?G?.                                           :~?Y5J7^.                             
+             .5P:                                         :!J55J!:                                  
+             ?#                                      .^7J55?~:                                      
+             ~&~                                 .^7Y5Y7^.                                          
+              PP.:::.                        :~?Y5Y7^.                                              
+              ^5YJJYYYYYJJJ????77777!777??JYYYJ!:                                                   
+                     ..::^^^~~~~!!!!!!!!~~^:.                                                       
+"""
+
+
+suzuka = """
+       ^7YPPPPY7:                                                                                   
+      ?#@#GPPG&@B7                                                                                  
+     :B@&!    ^B@&!                     ~!!^                                                        
+      7#@#Y~   ~#@#7                  !G&&&#!                                                       
+       :JB@&G?^ ^5&@G?^              7&@BB&@7                                                       
+          !5#@&P?~!YB&&GJ!:        :Y&@GP&&Y             ^7?!~JPGGP5J!^                             
+            :75B&&B5JYPB&&#G5J???JP#@#J^#&B:           ~5#@&&&&B55PB&@&P!                           
+               :~?5B#&##BB#######BG57^ :B&#^        :7G&&G?75GY!^:  :7P@@P!                         
+                    ^~?YPB#&&#G5J!^     5@&7      ^JB@#G5PB&&##&&#GY~  !G@&5^                       
+                         :^!?YGB&&&#G5?~Y&@J  :^75#@B55#@#57~^^~7JG@&P:  7B@#J:                     
+                               :^!?YPB&&&&&B5PB&&#P7?B@&J:         5@@?   :J#@B7                    
+                                     :^~?#&&BG5J7^~P@@P^          ^B&&~     ^5&@G!                  
+                                         J&@######&@B7            G@&7        !G@&5^                
+                                          !JJ????77!:             P@&J^^^^:     ?B@#J:              
+                                                                  :5#&&&&&#P7    :J&@B7             
+                                                                    :~!777P@&J     ^5&@G!           
+                                                                          :B@&~      !G@&5^         
+                                                                           !#@#5YJ?~   ?B@#J:       
+                                                                            ^JPBB#@&P~  :Y&@B~      
+                                                                                 :!B@#?   !&@B:     
+                                                                                   ^P@@5: ~&@B:     
+                                                                                     J&@BP#@#!      
+                                                                                      ~JPGPJ^       
+                                                                                              
+"""
+
+
+singapore = """
+                                                                          :!7~:                     
+                                                                         !B&&@BYY?^                 
+                                                                        :B@P^75GB&#!                
+                                                                        ^&@Y     P@#:               
+                                                                         5@#~    7&@?               
+                                    ~!~^                                 :P@B~   :B@G               
+                                  !G&&##B57^                              :P@B^   Y@&~              
+                     !5GPJ~      !&@P^^!YG##GY!:                           :G@G:  ~&@J              
+                   :5@@PP&&P!   !#@5      ^75B&#P?~:                        7&@7   G@B:             
+                  ^P@#7  ^J#@BY5&@Y          :~JP#&#G5J77!!!!!!!!7777??????7P@&~   ?@&!             
+                 ~B@G^                           :~7YPGBBBBBBBBBBBBB####&&##B5!    ^#@Y             
+                7&@5:                                   ::::::::::::::::^^::        P@B:            
+               J&&?          ?#@G5B&&GJ~                                            !&&7            
+             :P@#!          7&@5:  ^?P&&BJ~:::              ::                       P@G            
+            ^B@B~          ^#@G:      ^75B#BBBBG?         ~PBBBGGPY?~                Y@&^           
+           :G@G^           J@&!           :~!7J@@7::::   ~#@P7?JY5G@&J             ~5&&J            
+           ~&@Y           :B@G                 5&&##BBBBB#@B^     :5&&BBBBBBBBBBBGG&&P~             
+           :P@&5~         ~&@J                  ~!??JJJJ?7!:        ^!7???????JJYYJ7^               
+             !5&&5:       7&&!                                                                      
+               ^#@P       J@#:                                                                      
+                P@&J^     P@G                                                                       
+                :?P&&P7: ^#@5                                                                       
+                   ^?G@#55@@7                                                                       
+                      !5B#B?                                                                                                                                                 
+"""
