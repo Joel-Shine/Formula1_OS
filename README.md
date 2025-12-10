@@ -2,7 +2,7 @@
 
 <div align="center">
   <b> 🚦 "It's lights out and away we go!" 🚦 </b><br><br>
-  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/demo.png" alt="demo.png">
+  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/f1_demo.PNG" alt="f1_demo.png">
 </div>
 
 **Formula1_OS** is a feature-rich, immersive Terminal User Interface (TUI) that transforms your command line into a Formula 1 Pit Wall. Built with Python and `rich`, it replaces mundane system tasks with high-octane racing metaphors.
@@ -37,8 +37,9 @@
 * **Meme radio messages (`quote`):** Some of the iconic radio messages in Formula 1 history.
 
 ## 📷 Screenshots
+<h2 align = "center"> A demo showing a collage all the features and commands used in this program. </h2><br>
 <div align="center">
-  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/f1_demo.PNG" alt="f1_demo.png">
+  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/demo.png" alt="demo.png">
 </div>
 
 ## 🤝 Contributing
