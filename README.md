@@ -3,9 +3,14 @@
 <div align="center">
   <b> 🚦 "It's lights out and away we go!" 🚦 </b><br><br>
   <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/f1_demo.PNG" alt="f1_demo.png">
-</div>
 
+<br>
+
+<h3>
 **Formula1_OS** is a feature-rich, immersive Terminal User Interface (TUI) that transforms your command line into a Formula 1 Pit Wall. Built with Python and `rich`, it replaces mundane system tasks with high-octane racing metaphors.
+</h3>
+
+</div>
 
 ![License](https://img.shields.io/badge/license-MIT-red.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
