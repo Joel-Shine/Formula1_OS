@@ -1,7 +1,7 @@
 <h1 align="center"> 🏎️ Formula1_OS (f1) </h1>
-<h2 align = "center"> "It's lights out and away we go!" </h2>
 
 <div align="center">
+  🚦 "It's lights out and away we go!" 🚦
   <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/demo.png" alt="demo.png">
 </div>
 
