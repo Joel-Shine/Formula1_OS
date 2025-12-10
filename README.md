@@ -38,7 +38,7 @@
 
 ## 📷 Screenshots
 <div align="center">
-  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/f1_demo.png" alt="f1_demo.png">
+  <img src="https://github.com/Joel-Shine/Formula1_OS/blob/main/f1_demo.PNG" alt="f1_demo.png">
 </div>
 
 ## 🤝 Contributing
